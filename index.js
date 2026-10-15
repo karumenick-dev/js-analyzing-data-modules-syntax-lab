@@ -1,5 +1,7 @@
 const Date = require('datejs');
-
+function combineUsers(...args){
+  
+}
 
 
 module.exports = {
