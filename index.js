@@ -1,4 +1,4 @@
-const Date = require('datejs');
+require('datejs');
 function combineUsers(...args){
   const combineObject = {
     users:[]
